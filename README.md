@@ -1,7 +1,7 @@
 Stouts.backup
 =============
 
-[![Build Status](http://img.shields.io/travis/Stouts/Stouts.backup.svg?style=flat-square)](https://travis-ci.org/Stouts/Stouts.backup)
+[![Build Status](http://img.shields.io/travis/msumpter/Stouts.backup.svg?style=flat-square)](https://travis-ci.org/msumpter/Stouts.backup)
 [![Galaxy](http://img.shields.io/badge/galaxy-Stouts.backup-blue.svg?style=flat-square)](https://galaxy.ansible.com/list#/roles/945)
 
 Ansible role which manage backups. Support file backups, postgresql, mysql, mongo db backups.
