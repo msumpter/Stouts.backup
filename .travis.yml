@@ -23,7 +23,7 @@ script:
     && (echo 'Idempotence test: pass' && exit 0)
     || (echo 'Idempotence test: fail' && exit 1)
 
-  - sudo /usr/local/bin/duply test backup
+  - sudo /usr/bin/duply test backup
   - test -d /home/travis/test || exit 1
 
 backup_home: /home/travis/backup
